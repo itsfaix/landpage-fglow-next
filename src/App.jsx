@@ -1,6 +1,7 @@
 function App() {
 
   return (
+    {/* Add the spehere from spline */}
     <>
       <nav className="fixed top-0 right-0 z-10 p-4 w-full">
         <h1 className='font-inter text-2xl'>About us</h1>
